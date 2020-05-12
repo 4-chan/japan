@@ -1,3 +1,4 @@
-﻿#EXTM3U
-#EXTINF:-1,***TV tokyo***
+#EXTINF:-1, Tokyo tv
 https://cdn.jp.jpnettv.live/jptv/kanto_tv_tokyo_540/chunklist_w2006317319.m3u8
+#EXTINF:-1, Tokyo mx
+https://cdn.jp.jpnettv.live/jptv/kanto_tokyo_mx1_540/chunklist_w1401581135.m3u8
